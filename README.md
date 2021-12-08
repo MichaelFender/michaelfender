@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelfeneder" alt="michaelfeneder" /></a> </p>
 
-- 🔭 I’m currently working on **SnackTime Foundations Capstone**
+- 🔭 I’m currently working on **QA Specialization**
 
-- 🌱 I’m currently learning **Javascript / CSS / HTML5**
+- 🌱 I’m currently learning **QA Automation / Javascript / CSS / HTML5**
 
 - 📫 How to reach me **michael.a.fender@outlook.com**
 

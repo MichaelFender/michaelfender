@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michael Fender</h1>
-<h3 align="center">QA / JavaScript / CSS / HTML5 / Node</h3>
+<h3 align="center">QA / JavaScript / CSS / HTML5 / Node / Selenium / JEST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelfeneder&label=Profile%20views&color=0e75b6&style=flat" alt="michaelfeneder" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **QA Specialization**
 
-- 🌱 I’m currently learning **QA Automation / Javascript / CSS / HTML5 / Selenium**
+- 🌱 I’m currently learning **QA Automation / SCRUM / Javascript / CSS / HTML5 / Selenium / Jest**
 
 - 📫 How to reach me **michael.a.fender@outlook.com**
 

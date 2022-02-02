@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelfeneder&label=Profile%20views&color=0e75b6&style=flat" alt="michaelfeneder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelfeneder" alt="michaelfeneder" /></a> </p>
+
 
 - 🔭 I’m currently working on **QA Specialization**
 

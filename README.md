@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **QA Specialization**
 
-- 🌱 I’m currently learning **QA Automation / Javascript / CSS / HTML5**
+- 🌱 I’m currently learning **QA Automation / Javascript / CSS / HTML5 / Selenium**
 
 - 📫 How to reach me **michael.a.fender@outlook.com**
 
